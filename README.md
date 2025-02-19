@@ -7,3 +7,7 @@ Hugging face model link: https://huggingface.co/usmangill123/phi-2-dialogsum-fin
 Training Results:
 
 <img width="240" alt="Screenshot 2025-02-19 at 2 29 20 PM" src="https://github.com/user-attachments/assets/7d1ade8e-e696-47c2-972b-77aeaf30a43c" />
+
+
+Issues Faced:
+- no issues faced, some warnings but no errors
